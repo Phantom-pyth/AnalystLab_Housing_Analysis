@@ -112,7 +112,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/housingpriceanalysis.git
+git clone https://github.com/Phantom-pyth/AnalystLab_Housing_Analysis.git
 cd housingpriceanalysis
 
 # Launch the Jupyter Notebook
